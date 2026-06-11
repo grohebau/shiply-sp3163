@@ -1,0 +1,47 @@
+{
+  "SE481527948DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Adolf Oldehaver, Brechtstraße 9, 06484 Quedlinburg, Deutschland",
+    "receiver": "Holger Reuß, Am Tannenberg 23, 69483 Wald-Michelbach, Deutschland",
+    "price": "7.200,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Sportster XL 1200 T Superlow<br>Fahrgestelnummer: 5HD1LL3C3JC425982<br>Erstzulassung: 06/2015<br>KM laut Vorbesitzer: 16000 km<br>Leistung: 50 kW (68 PS)<br>Hubraum: 1.202 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Holger Reuß<br>Am Tannenberg 23<br>69483 Wald-Michelbach<br>Deutschland<br>Telefon: +49 178 4589340",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "11.06.2026",
+    "deliveryDate": "16.06.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
