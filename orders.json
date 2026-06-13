@@ -1,6 +1,6 @@
 {
   "SE481527948DE": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Lukas Adolf Oldehaver, Brechtstraße 9, 06484 Quedlinburg, Deutschland",
     "receiver": "Holger Reuß, Am Tannenberg 23, 69483 Wald-Michelbach, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "11.06.2026",
-    "deliveryDate": "16.06.2026",
+    "deliveryDate": "16.06.2026 🕒 15:00 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
